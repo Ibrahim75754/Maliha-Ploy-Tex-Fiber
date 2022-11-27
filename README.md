@@ -1,9 +1,7 @@
 # Maliha Poly Tex Fiber Industry Limited
 
-(A POS Management System)
-
 ### Project Overview
-
+Live Site : 
 [Maliha Poly Tex Fiber Industry Limited](https://maliha-poly-tex-fiber.netlify.app/)
 
 
