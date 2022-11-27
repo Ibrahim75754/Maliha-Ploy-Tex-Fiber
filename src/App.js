@@ -18,8 +18,7 @@ function App() {
             <textarea class="form-control" style={{ backgroundColor: `${color}` }} name="" id="" cols="30" rows="10" data-aos="fade-left"
               data-aos-duration="3000"></textarea><br />
 
-            <input class="form-control" onChange={(e) => changeColor(e)} type="text" placeholder='Input Color name or code' data-aos="fade-up"
-              data-aos-duration="3000" />
+            <input class="form-control" onChange={(e) => changeColor(e)} type="text" placeholder='Input Color name or code' />
 
           </div>
         </div>
